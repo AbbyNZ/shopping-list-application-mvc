@@ -1,0 +1,24 @@
+c:\users\berna\documents\visual studio 2015\Projects\Assignment1B\Assignment1B\obj\Debug\Assignment1B.Properties.Resources.resources
+c:\users\berna\documents\visual studio 2015\Projects\Assignment1B\Assignment1B\obj\Debug\Assignment1B.ShoppingOrganizer.resources
+c:\users\berna\documents\visual studio 2015\Projects\Assignment1B\Assignment1B\obj\Debug\ShoppingList.csproj.GenerateResource.Cache
+c:\users\berna\documents\visual studio 2015\Projects\Assignment1B\Assignment1B\bin\Debug\Assignment1B.exe.config
+C:\Users\Berna\Documents\Visual Studio 2015\Projects\Assignment1B\Assignment1B\obj\Debug\Assignment1B.TextView.resources
+C:\Users\Berna\Documents\Visual Studio 2015\Projects\Assignment1B\Assignment1B\obj\Debug\Assignment1B.GraphicView.resources
+C:\Users\Berna\Documents\Visual Studio 2015\Projects\Assignment1B\Assignment1B\obj\Debug\Assignment1B.ReadOnlyView.resources
+C:\Users\Berna\Documents\Visual Studio 2015\Projects\Assignment1B\Assignment1B\bin\Debug\Assignment1B.exe
+C:\Users\Berna\Documents\Visual Studio 2015\Projects\Assignment1B\Assignment1B\bin\Debug\Assignment1B.pdb
+C:\Users\Berna\Documents\Visual Studio 2015\Projects\Assignment1B\Assignment1B\obj\Debug\Assignment1B.exe
+C:\Users\Berna\Documents\Visual Studio 2015\Projects\Assignment1B\Assignment1B\obj\Debug\Assignment1B.pdb
+C:\Users\Berna\Documents\Visual Studio 2015\Projects\Assignment1B\Assignment1B\obj\Debug\ShoppingList.csprojResolveAssemblyReference.cache
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1B\Assignment1B_MVC\Assignment1B\Assignment1B\bin\Debug\Assignment1B.exe.config
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1B\Assignment1B_MVC\Assignment1B\Assignment1B\obj\Debug\Assignment1B.exe
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1B\Assignment1B_MVC\Assignment1B\Assignment1B\obj\Debug\Assignment1B.pdb
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1B\Assignment1B_MVC\Assignment1B\Assignment1B\bin\Debug\Assignment1B.exe
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1B\Assignment1B_MVC\Assignment1B\Assignment1B\bin\Debug\Assignment1B.pdb
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1B\Assignment1B_MVC\Assignment1B\Assignment1B\obj\Debug\ShoppingList.csprojResolveAssemblyReference.cache
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1B\Assignment1B_MVC\Assignment1B\Assignment1B\obj\Debug\Assignment1B.GraphicView.resources
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1B\Assignment1B_MVC\Assignment1B\Assignment1B\obj\Debug\Assignment1B.Properties.Resources.resources
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1B\Assignment1B_MVC\Assignment1B\Assignment1B\obj\Debug\Assignment1B.ReadOnlyView.resources
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1B\Assignment1B_MVC\Assignment1B\Assignment1B\obj\Debug\Assignment1B.ShoppingOrganizer.resources
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1B\Assignment1B_MVC\Assignment1B\Assignment1B\obj\Debug\Assignment1B.TextView.resources
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1B\Assignment1B_MVC\Assignment1B\Assignment1B\obj\Debug\ShoppingList.csproj.GenerateResource.Cache
